@@ -34,7 +34,7 @@
             "last_commit": "2026-03-29T11:43:19Z",
             "owner": "manga-download",
             "repo": "hakuneko",
-            "stars": 6293
+            "stars": 6294
           }
         },
         {
@@ -161,10 +161,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-10T19:51:31Z",
+            "last_commit": "2026-08-13T07:51:40Z",
             "owner": "recloudstream",
             "repo": "cloudstream",
-            "stars": 10423
+            "stars": 10426
           }
         },
         {
@@ -178,7 +178,7 @@
             "last_commit": "2026-08-13T00:43:58Z",
             "owner": "aniyomiorg",
             "repo": "aniyomi",
-            "stars": 7591
+            "stars": 7593
           }
         },
         {
@@ -203,10 +203,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-12T18:48:23Z",
+            "last_commit": "2026-08-13T14:05:29Z",
             "owner": "quickdesh",
             "repo": "Animiru",
-            "stars": 843
+            "stars": 844
           }
         },
         {
@@ -281,10 +281,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-12T19:16:34Z",
+            "last_commit": "2026-08-13T17:01:43Z",
             "owner": "Kareadita",
             "repo": "Kavita",
-            "stars": 11458
+            "stars": 11461
           }
         },
         {
@@ -298,7 +298,7 @@
             "last_commit": "2026-03-29T11:43:19Z",
             "owner": "manga-download",
             "repo": "hakuneko",
-            "stars": 6293
+            "stars": 6294
           }
         },
         {
@@ -312,7 +312,7 @@
             "last_commit": "2026-08-09T09:21:20Z",
             "owner": "ollm",
             "repo": "OpenComic",
-            "stars": 1946
+            "stars": 1945
           }
         },
         {
@@ -343,10 +343,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-13T02:56:19Z",
+            "last_commit": "2026-08-13T09:40:58Z",
             "owner": "Jays2Kings",
             "repo": "tachiyomiJ2K",
-            "stars": 5328
+            "stars": 5327
           }
         },
         {
@@ -382,7 +382,7 @@
             "last_commit": "2026-08-11T12:05:39Z",
             "owner": "lnreader",
             "repo": "lnreader",
-            "stars": 2763
+            "stars": 2766
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2026-08-10T18:20:01Z",
             "owner": "LagradOst",
             "repo": "QuickNovel",
-            "stars": 1769
+            "stars": 1771
           }
         }
       ],
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:01:23.342Z",
+    "last_updated": "2026-08-13T18:29:42.971Z",
     "original_repository": "anshumanv/awesome-anime-sources",
     "original_repository_sha": "94cab1098761b864efed6ced64c95314c5137d29",
     "enhanced_repository": "enhansome/enhansome-anime-sources",
