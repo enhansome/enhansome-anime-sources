@@ -1,0 +1,414 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "ANIME"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Downloading"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Torrents"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hakuneko",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-29T11:43:19Z",
+            "owner": "manga-download",
+            "repo": "hakuneko",
+            "stars": 6293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "taiga",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T13:13:18Z",
+            "owner": "erengy",
+            "repo": "taiga",
+            "stars": 2322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anime-downloader",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T03:13:37Z",
+            "owner": "anime-dl",
+            "repo": "anime-downloader",
+            "stars": 2001
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monkey-dl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-22T23:20:38Z",
+            "owner": "Oshan96",
+            "repo": "monkey-dl",
+            "stars": 896
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trackma",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T19:13:47Z",
+            "owner": "z411",
+            "repo": "trackma",
+            "stars": 887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yuna",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-03-21T16:29:30Z",
+            "owner": "beeequeue",
+            "repo": "yuna",
+            "stars": 568
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Totoro",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-05-27T18:25:33Z",
+            "owner": "insomniachi",
+            "repo": "Totoro",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hachidori",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2024-09-07T18:36:42Z",
+            "owner": "Atelier-Shiori",
+            "repo": "hachidori",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kawanime",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "mikazuki",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "PC"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cloudstream",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-10T19:51:31Z",
+            "owner": "recloudstream",
+            "repo": "cloudstream",
+            "stars": 10423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aniyomi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T00:43:58Z",
+            "owner": "aniyomiorg",
+            "repo": "aniyomi",
+            "stars": 7591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Animity",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-29T17:06:46Z",
+            "owner": "kl3jvi",
+            "repo": "animity",
+            "stars": 1128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Animiru",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T18:48:23Z",
+            "owner": "quickdesh",
+            "repo": "Animiru",
+            "stars": 843
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kuro",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2023-05-19T12:44:26Z",
+            "owner": "deceptions",
+            "repo": "no",
+            "stars": 300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FireAnime",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-12-22T00:43:02Z",
+            "owner": "XenTeckzX",
+            "repo": "FireAnime",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnimeDLR",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-12-12T20:12:26Z",
+            "owner": "cylonu87",
+            "repo": "AnimeDLR",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Saikou",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Mobile"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "MANGA"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "kavita",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T19:16:34Z",
+            "owner": "Kareadita",
+            "repo": "Kavita",
+            "stars": 11458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hakuneko",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-29T11:43:19Z",
+            "owner": "manga-download",
+            "repo": "hakuneko",
+            "stars": 6293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenComic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T09:21:20Z",
+            "owner": "ollm",
+            "repo": "OpenComic",
+            "stars": 1946
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FMD",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pascal",
+            "last_commit": "2020-10-31T02:26:18Z",
+            "owner": "riderkick",
+            "repo": "FMD",
+            "stars": 742
+          }
+        }
+      ],
+      "title": "PC"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tachiyomij2k",
+          "description": "Fork of Tachiyomi but it has way better ui than tachiyomi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T02:56:19Z",
+            "owner": "Jays2Kings",
+            "repo": "tachiyomiJ2K",
+            "stars": 5328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tachiyomi",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Mobile"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "LIGHT NOVELS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LNReader",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T12:05:39Z",
+            "owner": "lnreader",
+            "repo": "lnreader",
+            "stars": 2763
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuickNovel",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-10T18:20:01Z",
+            "owner": "LagradOst",
+            "repo": "QuickNovel",
+            "stars": 1769
+          }
+        }
+      ],
+      "title": "Mobile"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:01:23.342Z",
+    "original_repository": "anshumanv/awesome-anime-sources",
+    "original_repository_sha": "94cab1098761b864efed6ced64c95314c5137d29",
+    "enhanced_repository": "enhansome/enhansome-anime-sources",
+    "enhanced_repository_description": null,
+    "title": "awesome-anime-sources with stars"
+  }
+}
