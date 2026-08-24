@@ -146,7 +146,7 @@
                     "last_commit": "2026-08-23T13:34:30Z",
                     "owner": "recloudstream",
                     "repo": "cloudstream",
-                    "stars": 10514
+                    "stars": 10517
                   }
                 },
                 {
@@ -188,7 +188,7 @@
                     "archived": false,
                     "id": 468685161,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-24T13:08:29Z",
+                    "last_commit": "2026-08-24T17:34:21Z",
                     "owner": "quickdesh",
                     "repo": "Animiru",
                     "stars": 852
@@ -268,7 +268,7 @@
                     "archived": false,
                     "id": 320936145,
                     "language": "C#",
-                    "last_commit": "2026-08-23T08:34:15Z",
+                    "last_commit": "2026-08-24T15:11:08Z",
                     "owner": "Kareadita",
                     "repo": "Kavita",
                     "stars": 11543
@@ -338,7 +338,7 @@
                     "last_commit": "2026-08-24T07:52:15Z",
                     "owner": "Jays2Kings",
                     "repo": "tachiyomiJ2K",
-                    "stars": 5353
+                    "stars": 5354
                   }
                 }
               ],
@@ -406,7 +406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:16:52.942Z",
+    "last_updated": "2026-08-24T18:00:57.335Z",
     "original_repository": "anshumanv/awesome-anime-sources",
     "original_repository_id": 94137393,
     "original_repository_sha": "94cab1098761b864efed6ced64c95314c5137d29",
