@@ -19,7 +19,7 @@
                     "last_commit": "2026-03-29T11:43:19Z",
                     "owner": "manga-download",
                     "repo": "hakuneko",
-                    "stars": 6310
+                    "stars": 6308
                   }
                 },
                 {
@@ -49,7 +49,7 @@
                     "last_commit": "2022-12-08T03:13:37Z",
                     "owner": "anime-dl",
                     "repo": "anime-downloader",
-                    "stars": 2003
+                    "stars": 2002
                   }
                 },
                 {
@@ -94,7 +94,7 @@
                     "last_commit": "2024-03-21T16:29:30Z",
                     "owner": "beeequeue",
                     "repo": "yuna",
-                    "stars": 566
+                    "stars": 565
                   }
                 },
                 {
@@ -146,7 +146,7 @@
                     "last_commit": "2026-08-23T13:34:30Z",
                     "owner": "recloudstream",
                     "repo": "cloudstream",
-                    "stars": 10523
+                    "stars": 10528
                   }
                 },
                 {
@@ -161,7 +161,7 @@
                     "last_commit": "2026-08-19T14:51:58Z",
                     "owner": "aniyomiorg",
                     "repo": "aniyomi",
-                    "stars": 7625
+                    "stars": 7626
                   }
                 },
                 {
@@ -191,7 +191,7 @@
                     "last_commit": "2026-08-24T19:44:01Z",
                     "owner": "quickdesh",
                     "repo": "Animiru",
-                    "stars": 852
+                    "stars": 855
                   }
                 },
                 {
@@ -268,10 +268,10 @@
                     "archived": false,
                     "id": 320936145,
                     "language": "C#",
-                    "last_commit": "2026-08-25T05:05:22Z",
+                    "last_commit": "2026-08-25T17:53:08Z",
                     "owner": "Kareadita",
                     "repo": "Kavita",
-                    "stars": 11547
+                    "stars": 11553
                   }
                 },
                 {
@@ -286,7 +286,7 @@
                     "last_commit": "2026-03-29T11:43:19Z",
                     "owner": "manga-download",
                     "repo": "hakuneko",
-                    "stars": 6310
+                    "stars": 6308
                   }
                 },
                 {
@@ -298,7 +298,7 @@
                     "archived": false,
                     "id": 78461332,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-22T14:16:17Z",
+                    "last_commit": "2026-08-25T17:59:07Z",
                     "owner": "ollm",
                     "repo": "OpenComic",
                     "stars": 1950
@@ -335,10 +335,10 @@
                     "archived": false,
                     "id": 175908029,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-25T05:10:14Z",
+                    "last_commit": "2026-08-25T06:16:50Z",
                     "owner": "Jays2Kings",
                     "repo": "tachiyomiJ2K",
-                    "stars": 5353
+                    "stars": 5356
                   }
                 }
               ],
@@ -385,10 +385,10 @@
                     "archived": false,
                     "id": 351162779,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-25T02:23:12Z",
+                    "last_commit": "2026-08-25T06:08:54Z",
                     "owner": "LagradOst",
                     "repo": "QuickNovel",
-                    "stars": 1784
+                    "stars": 1782
                   }
                 }
               ],
@@ -406,7 +406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:07:04.849Z",
+    "last_updated": "2026-08-25T17:59:48.854Z",
     "original_repository": "anshumanv/awesome-anime-sources",
     "original_repository_id": 94137393,
     "original_repository_sha": "94cab1098761b864efed6ced64c95314c5137d29",
