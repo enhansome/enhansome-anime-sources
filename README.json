@@ -271,7 +271,7 @@
                     "open_issues": 604,
                     "owner": "recloudstream",
                     "repo": "cloudstream",
-                    "stars": 10543,
+                    "stars": 10548,
                     "topics": [
                       "android",
                       "good-first-issue",
@@ -299,7 +299,7 @@
                     "open_issues": 375,
                     "owner": "aniyomiorg",
                     "repo": "aniyomi",
-                    "stars": 7633,
+                    "stars": 7634,
                     "topics": [
                       "android",
                       "anime",
@@ -348,11 +348,11 @@
                     "id": 468685161,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-26T16:34:30Z",
+                    "last_commit": "2026-08-29T11:36:01Z",
                     "open_issues": 37,
                     "owner": "quickdesh",
                     "repo": "Animiru",
-                    "stars": 858,
+                    "stars": 859,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:07:48.598Z"
@@ -463,11 +463,11 @@
                     "id": 320936145,
                     "language": "C#",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-28T15:50:42Z",
+                    "last_commit": "2026-08-29T16:05:14Z",
                     "open_issues": 153,
                     "owner": "Kareadita",
                     "repo": "Kavita",
-                    "stars": 11581,
+                    "stars": 11582,
                     "topics": [
                       "annotations",
                       "cbz",
@@ -534,11 +534,11 @@
                     "id": 78461332,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-25T17:59:07Z",
-                    "open_issues": 115,
+                    "last_commit": "2026-08-29T13:03:09Z",
+                    "open_issues": 116,
                     "owner": "ollm",
                     "repo": "OpenComic",
-                    "stars": 1955,
+                    "stars": 1957,
                     "topics": [
                       "comic",
                       "comic-viewer",
@@ -580,7 +580,7 @@
                     "open_issues": 522,
                     "owner": "riderkick",
                     "repo": "FMD",
-                    "stars": 740,
+                    "stars": 741,
                     "topics": [
                       "downloader",
                       "fpc",
@@ -614,7 +614,7 @@
                     "open_issues": 504,
                     "owner": "Jays2Kings",
                     "repo": "tachiyomiJ2K",
-                    "stars": 5361,
+                    "stars": 5363,
                     "topics": [
                       "android",
                       "fork",
@@ -657,8 +657,8 @@
                     "id": 302512523,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-23T13:56:13Z",
-                    "open_issues": 288,
+                    "last_commit": "2026-08-29T06:12:15Z",
+                    "open_issues": 282,
                     "owner": "lnreader",
                     "repo": "lnreader",
                     "stars": 2797,
@@ -688,7 +688,7 @@
                     "open_issues": 257,
                     "owner": "LagradOst",
                     "repo": "QuickNovel",
-                    "stars": 1790,
+                    "stars": 1791,
                     "topics": [
                       "android",
                       "lightnovel"
@@ -711,7 +711,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:36:14.560Z",
+    "last_updated": "2026-08-29T19:57:54.465Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of everything related to anime.",
