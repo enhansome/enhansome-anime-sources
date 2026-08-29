@@ -19,8 +19,9 @@
                     "last_commit": "2026-03-29T11:43:19Z",
                     "owner": "manga-download",
                     "repo": "hakuneko",
-                    "stars": 6313
-                  }
+                    "stars": 6314
+                  },
+                  "first_seen": "2026-08-29T01:07:48.598Z"
                 },
                 {
                   "node_type": "item",
@@ -35,7 +36,8 @@
                     "owner": "erengy",
                     "repo": "taiga",
                     "stars": 2329
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:07:48.598Z"
                 },
                 {
                   "node_type": "item",
@@ -50,7 +52,8 @@
                     "owner": "anime-dl",
                     "repo": "anime-downloader",
                     "stars": 2002
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:07:48.598Z"
                 },
                 {
                   "node_type": "item",
@@ -65,7 +68,8 @@
                     "owner": "Oshan96",
                     "repo": "monkey-dl",
                     "stars": 897
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:07:48.598Z"
                 },
                 {
                   "node_type": "item",
@@ -80,7 +84,8 @@
                     "owner": "z411",
                     "repo": "trackma",
                     "stars": 889
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:07:48.598Z"
                 },
                 {
                   "node_type": "item",
@@ -94,8 +99,9 @@
                     "last_commit": "2024-03-21T16:29:30Z",
                     "owner": "beeequeue",
                     "repo": "yuna",
-                    "stars": 565
-                  }
+                    "stars": 566
+                  },
+                  "first_seen": "2026-08-29T01:07:48.598Z"
                 },
                 {
                   "node_type": "item",
@@ -110,7 +116,8 @@
                     "owner": "insomniachi",
                     "repo": "Totoro",
                     "stars": 285
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:07:48.598Z"
                 },
                 {
                   "node_type": "item",
@@ -125,7 +132,8 @@
                     "owner": "Atelier-Shiori",
                     "repo": "hachidori",
                     "stars": 81
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:07:48.598Z"
                 }
               ],
               "description": null,
@@ -143,11 +151,12 @@
                     "archived": false,
                     "id": 521189491,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-26T20:41:25Z",
+                    "last_commit": "2026-08-28T23:08:30Z",
                     "owner": "recloudstream",
                     "repo": "cloudstream",
-                    "stars": 10544
-                  }
+                    "stars": 10546
+                  },
+                  "first_seen": "2026-08-29T01:07:48.598Z"
                 },
                 {
                   "node_type": "item",
@@ -162,7 +171,8 @@
                     "owner": "aniyomiorg",
                     "repo": "aniyomi",
                     "stars": 7632
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:07:48.598Z"
                 },
                 {
                   "node_type": "item",
@@ -177,7 +187,8 @@
                     "owner": "kl3jvi",
                     "repo": "animity",
                     "stars": 1127
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:07:48.598Z"
                 },
                 {
                   "node_type": "item",
@@ -192,7 +203,8 @@
                     "owner": "quickdesh",
                     "repo": "Animiru",
                     "stars": 858
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:07:48.598Z"
                 },
                 {
                   "node_type": "item",
@@ -207,7 +219,8 @@
                     "owner": "deceptions",
                     "repo": "no",
                     "stars": 298
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:07:48.598Z"
                 },
                 {
                   "node_type": "item",
@@ -222,7 +235,8 @@
                     "owner": "XenTeckzX",
                     "repo": "FireAnime",
                     "stars": 224
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:07:48.598Z"
                 },
                 {
                   "node_type": "item",
@@ -237,7 +251,8 @@
                     "owner": "cylonu87",
                     "repo": "AnimeDLR",
                     "stars": 52
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:07:48.598Z"
                 }
               ],
               "description": null,
@@ -268,11 +283,12 @@
                     "archived": false,
                     "id": 320936145,
                     "language": "C#",
-                    "last_commit": "2026-08-27T21:45:36Z",
+                    "last_commit": "2026-08-28T15:50:42Z",
                     "owner": "Kareadita",
                     "repo": "Kavita",
-                    "stars": 11572
-                  }
+                    "stars": 11579
+                  },
+                  "first_seen": "2026-08-29T01:07:48.598Z"
                 },
                 {
                   "node_type": "item",
@@ -286,8 +302,9 @@
                     "last_commit": "2026-03-29T11:43:19Z",
                     "owner": "manga-download",
                     "repo": "hakuneko",
-                    "stars": 6313
-                  }
+                    "stars": 6314
+                  },
+                  "first_seen": "2026-08-29T01:07:48.598Z"
                 },
                 {
                   "node_type": "item",
@@ -301,8 +318,9 @@
                     "last_commit": "2026-08-25T17:59:07Z",
                     "owner": "ollm",
                     "repo": "OpenComic",
-                    "stars": 1953
-                  }
+                    "stars": 1955
+                  },
+                  "first_seen": "2026-08-29T01:07:48.598Z"
                 },
                 {
                   "node_type": "item",
@@ -317,7 +335,8 @@
                     "owner": "riderkick",
                     "repo": "FMD",
                     "stars": 740
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:07:48.598Z"
                 }
               ],
               "description": null,
@@ -335,11 +354,12 @@
                     "archived": false,
                     "id": 175908029,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-27T06:48:12Z",
+                    "last_commit": "2026-08-28T04:56:26Z",
                     "owner": "Jays2Kings",
                     "repo": "tachiyomiJ2K",
-                    "stars": 5357
-                  }
+                    "stars": 5361
+                  },
+                  "first_seen": "2026-08-29T01:07:48.598Z"
                 }
               ],
               "description": null,
@@ -373,8 +393,9 @@
                     "last_commit": "2026-08-23T13:56:13Z",
                     "owner": "lnreader",
                     "repo": "lnreader",
-                    "stars": 2794
-                  }
+                    "stars": 2796
+                  },
+                  "first_seen": "2026-08-29T01:07:48.598Z"
                 },
                 {
                   "node_type": "item",
@@ -388,8 +409,9 @@
                     "last_commit": "2026-08-27T05:59:48Z",
                     "owner": "LagradOst",
                     "repo": "QuickNovel",
-                    "stars": 1787
-                  }
+                    "stars": 1790
+                  },
+                  "first_seen": "2026-08-29T01:07:48.598Z"
                 }
               ],
               "description": null,
@@ -406,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:37:13.495Z",
+    "last_updated": "2026-08-29T01:07:48.598Z",
     "original_repository_info": {
       "archived": false,
       "id": 94137393,
@@ -414,7 +436,7 @@
       "last_commit": "2024-07-05T08:26:23Z",
       "owner": "anshumanv",
       "repo": "awesome-anime-sources",
-      "stars": 1038
+      "stars": 1039
     },
     "original_repository_sha": "94cab1098761b864efed6ced64c95314c5137d29",
     "enhanced_repository": "enhansome/enhansome-anime-sources",
