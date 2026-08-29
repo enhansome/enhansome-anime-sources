@@ -14,12 +14,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Manga & Anime Downloader for Linux, Windows & MacOS",
+                    "homepage": "https://hakuneko.download",
                     "id": 95580598,
                     "language": "JavaScript",
+                    "license": "Unlicense",
                     "last_commit": "2026-03-29T11:43:19Z",
+                    "open_issues": 293,
                     "owner": "manga-download",
                     "repo": "hakuneko",
-                    "stars": 6314
+                    "stars": 6314,
+                    "topics": [
+                      "anime",
+                      "anime-downloader",
+                      "manga",
+                      "manga-downloader",
+                      "manga-reader",
+                      "novel",
+                      "novel-downloader"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:07:48.598Z"
                 },
@@ -30,12 +43,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A lightweight anime tracker for Windows",
+                    "homepage": "https://taiga.moe",
                     "id": 14477437,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-16T17:15:54Z",
+                    "open_issues": 219,
                     "owner": "erengy",
                     "repo": "taiga",
-                    "stars": 2329
+                    "stars": 2329,
+                    "topics": [
+                      "anilist",
+                      "anime",
+                      "kitsu",
+                      "myanimelist",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:07:48.598Z"
                 },
@@ -46,12 +70,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple but powerful anime downloader and streamer.",
+                    "homepage": null,
                     "id": 120225562,
                     "language": "Python",
+                    "license": "Unlicense",
                     "last_commit": "2022-12-08T03:13:37Z",
+                    "open_issues": 61,
                     "owner": "anime-dl",
                     "repo": "anime-downloader",
-                    "stars": 2002
+                    "stars": 2002,
+                    "topics": [
+                      "9anime",
+                      "anime",
+                      "anime-downloader",
+                      "batch",
+                      "downloader",
+                      "episodes",
+                      "hacktoberfest",
+                      "kissanime",
+                      "nyaa"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:07:48.598Z"
                 },
@@ -62,12 +101,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bulk download your favourite anime episodes from your favourite anime websites",
+                    "homepage": null,
                     "id": 242177795,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-05-22T23:20:38Z",
+                    "open_issues": 43,
                     "owner": "Oshan96",
                     "repo": "monkey-dl",
-                    "stars": 897
+                    "stars": 897,
+                    "topics": [
+                      "4anime",
+                      "9anime",
+                      "anime",
+                      "anime-downloader",
+                      "anime-fans",
+                      "anime-scraper",
+                      "anime-search",
+                      "animepahe",
+                      "animepahe-downloader",
+                      "animeultima",
+                      "ffmpeg",
+                      "hls-downloader",
+                      "monkey-dl",
+                      "web-scraper"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:07:48.598Z"
                 },
@@ -78,12 +137,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open multi-site list manager for Unix-like systems. (ex-wMAL)",
+                    "homepage": "https://z411.github.io/trackma",
                     "id": 5379427,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-07T19:13:47Z",
+                    "open_issues": 129,
                     "owner": "z411",
                     "repo": "trackma",
-                    "stars": 889
+                    "stars": 889,
+                    "topics": [
+                      "anime",
+                      "curses",
+                      "gtk3",
+                      "inotify",
+                      "manga",
+                      "mpris",
+                      "python",
+                      "qt5"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:07:48.598Z"
                 },
@@ -94,12 +167,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "ツ An anime player.",
+                    "homepage": "https://yuna.moe",
                     "id": 146347826,
                     "language": "TypeScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2024-03-21T16:29:30Z",
+                    "open_issues": 2,
                     "owner": "beeequeue",
                     "repo": "yuna",
-                    "stars": 566
+                    "stars": 566,
+                    "topics": [
+                      "anilist",
+                      "anime",
+                      "crunchyroll",
+                      "electron",
+                      "graphql",
+                      "hls",
+                      "streaming",
+                      "typescript",
+                      "vue",
+                      "vuex"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:07:48.598Z"
                 },
@@ -110,12 +199,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Windows 10/11 only application that is a go to for all things anime.",
+                    "homepage": null,
                     "id": 522584084,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2025-05-27T18:25:33Z",
+                    "open_issues": 15,
                     "owner": "insomniachi",
                     "repo": "Totoro",
-                    "stars": 285
+                    "stars": 285,
+                    "topics": [
+                      "anilist",
+                      "anime",
+                      "myanimelist",
+                      "simkl",
+                      "streaming",
+                      "tracking"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:07:48.598Z"
                 },
@@ -126,12 +227,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open Source Kitsu, AniList, and MyAnimeList Scrobbler for macOS",
+                    "homepage": "https://malupdaterosx.moe/hachidori/",
                     "id": 25554365,
                     "language": "Objective-C",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2024-09-07T18:36:42Z",
+                    "open_issues": 2,
                     "owner": "Atelier-Shiori",
                     "repo": "hachidori",
-                    "stars": 81
+                    "stars": 81,
+                    "topics": [
+                      "anilist",
+                      "kitsu",
+                      "macos",
+                      "myanimelist",
+                      "objective-c",
+                      "scrobble"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:07:48.598Z"
                 }
@@ -149,12 +262,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Android app for streaming and downloading media.",
+                    "homepage": null,
                     "id": 521189491,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-28T23:08:30Z",
+                    "open_issues": 604,
                     "owner": "recloudstream",
                     "repo": "cloudstream",
-                    "stars": 10546
+                    "stars": 10543,
+                    "topics": [
+                      "android",
+                      "good-first-issue",
+                      "home-theater",
+                      "media-center",
+                      "multimedia",
+                      "video-streaming"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:07:48.598Z"
                 },
@@ -165,12 +290,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An app for manga and anime",
+                    "homepage": "https://aniyomi.org",
                     "id": 358887741,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-26T12:08:02Z",
+                    "open_issues": 375,
                     "owner": "aniyomiorg",
                     "repo": "aniyomi",
-                    "stars": 7632
+                    "stars": 7633,
+                    "topics": [
+                      "android",
+                      "anime",
+                      "manga"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:07:48.598Z"
                 },
@@ -181,12 +315,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🎦 Use the Android app to watch anime on your phone without ads and with the best streaming quality available.",
+                    "homepage": null,
                     "id": 286457139,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2025-09-29T17:06:46Z",
+                    "open_issues": 14,
                     "owner": "kl3jvi",
                     "repo": "animity",
-                    "stars": 1127
+                    "stars": 1127,
+                    "topics": [
+                      "android",
+                      "android-app",
+                      "anime",
+                      "anime-app",
+                      "kotlin",
+                      "no-ads"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:07:48.598Z"
                 },
@@ -197,12 +343,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "video player and library manager",
+                    "homepage": "https://aniyomi.org/forks/Animiru/",
                     "id": 468685161,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-26T16:34:30Z",
+                    "open_issues": 37,
                     "owner": "quickdesh",
                     "repo": "Animiru",
-                    "stars": 858
+                    "stars": 858,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:07:48.598Z"
                 },
@@ -213,12 +364,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 410639357,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2023-05-19T12:44:26Z",
+                    "open_issues": 84,
                     "owner": "deceptions",
                     "repo": "no",
-                    "stars": 298
+                    "stars": 298,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:07:48.598Z"
                 },
@@ -229,12 +385,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An android app that allows you to retrieve anime links from different websites and display them in a nice format specifically tailored to work on the Amazon Fire Stick",
+                    "homepage": null,
                     "id": 134059326,
                     "language": null,
+                    "license": null,
                     "last_commit": "2022-12-22T00:43:02Z",
+                    "open_issues": 25,
                     "owner": "XenTeckzX",
                     "repo": "FireAnime",
-                    "stars": 224
+                    "stars": 224,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:07:48.598Z"
                 },
@@ -245,12 +406,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AnimeDLR",
+                    "homepage": "https://cyberneticlifeform.wixsite.com/cylonu87/animedlr",
                     "id": 86336505,
                     "language": null,
+                    "license": null,
                     "last_commit": "2019-12-12T20:12:26Z",
+                    "open_issues": 2,
                     "owner": "cylonu87",
                     "repo": "AnimeDLR",
-                    "stars": 52
+                    "stars": 52,
+                    "topics": [
+                      "android",
+                      "anilist",
+                      "anime",
+                      "cartoon",
+                      "drama",
+                      "kitsu",
+                      "myanimelist",
+                      "stream",
+                      "video",
+                      "watch"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:07:48.598Z"
                 }
@@ -281,12 +458,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.",
+                    "homepage": "http://www.kavitareader.com",
                     "id": 320936145,
                     "language": "C#",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-28T15:50:42Z",
+                    "open_issues": 153,
                     "owner": "Kareadita",
                     "repo": "Kavita",
-                    "stars": 11579
+                    "stars": 11581,
+                    "topics": [
+                      "annotations",
+                      "cbz",
+                      "comicinfo",
+                      "comics",
+                      "comics-reader",
+                      "cross-platform",
+                      "csharp",
+                      "epub",
+                      "epub-reader",
+                      "free",
+                      "linux",
+                      "manga",
+                      "media-server",
+                      "metadata",
+                      "opds",
+                      "opds-feed",
+                      "pdf",
+                      "self-hosted",
+                      "ubooquity",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:07:48.598Z"
                 },
@@ -297,12 +500,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Manga & Anime Downloader for Linux, Windows & MacOS",
+                    "homepage": "https://hakuneko.download",
                     "id": 95580598,
                     "language": "JavaScript",
+                    "license": "Unlicense",
                     "last_commit": "2026-03-29T11:43:19Z",
+                    "open_issues": 293,
                     "owner": "manga-download",
                     "repo": "hakuneko",
-                    "stars": 6314
+                    "stars": 6314,
+                    "topics": [
+                      "anime",
+                      "anime-downloader",
+                      "manga",
+                      "manga-downloader",
+                      "manga-reader",
+                      "novel",
+                      "novel-downloader"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:07:48.598Z"
                 },
@@ -313,12 +529,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Comic and Manga reader, written with Node.js and using Electron",
+                    "homepage": "https://opencomic.app",
                     "id": 78461332,
                     "language": "JavaScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-25T17:59:07Z",
+                    "open_issues": 115,
                     "owner": "ollm",
                     "repo": "OpenComic",
-                    "stars": 1955
+                    "stars": 1955,
+                    "topics": [
+                      "comic",
+                      "comic-viewer",
+                      "comics-reader",
+                      "electron",
+                      "epub-reader",
+                      "image-viewer",
+                      "javascript",
+                      "linux",
+                      "macos",
+                      "manga",
+                      "manga-reader",
+                      "manga-viewer",
+                      "manwha",
+                      "nodejs",
+                      "novel-reader",
+                      "pdf",
+                      "pdf-viewer",
+                      "webtoon",
+                      "webtoon-reader",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:07:48.598Z"
                 },
@@ -329,12 +571,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Forked from https://sf.net/p/fmd/",
+                    "homepage": null,
                     "id": 33722546,
                     "language": "Pascal",
+                    "license": "GPL-2.0",
                     "last_commit": "2020-10-31T02:26:18Z",
+                    "open_issues": 522,
                     "owner": "riderkick",
                     "repo": "FMD",
-                    "stars": 740
+                    "stars": 740,
+                    "topics": [
+                      "downloader",
+                      "fpc",
+                      "lazarus",
+                      "manga",
+                      "pascal"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:07:48.598Z"
                 }
@@ -352,12 +605,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Free and open source manga reader for Android",
+                    "homepage": null,
                     "id": 175908029,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T04:56:26Z",
+                    "open_issues": 504,
                     "owner": "Jays2Kings",
                     "repo": "tachiyomiJ2K",
-                    "stars": 5361
+                    "stars": 5361,
+                    "topics": [
+                      "android",
+                      "fork",
+                      "hacktoberfest",
+                      "kotlin",
+                      "manga"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:07:48.598Z"
                 }
@@ -388,12 +652,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Light novel reader for Android.",
+                    "homepage": "https://www.lnreader.app",
                     "id": 302512523,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-23T13:56:13Z",
+                    "open_issues": 288,
                     "owner": "lnreader",
                     "repo": "lnreader",
-                    "stars": 2796
+                    "stars": 2797,
+                    "topics": [
+                      "android",
+                      "light-novels",
+                      "react",
+                      "react-native",
+                      "webnovels"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:07:48.598Z"
                 },
@@ -404,12 +679,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Android app for downloading novels",
+                    "homepage": null,
                     "id": 351162779,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-27T05:59:48Z",
+                    "open_issues": 257,
                     "owner": "LagradOst",
                     "repo": "QuickNovel",
-                    "stars": 1790
+                    "stars": 1790,
+                    "topics": [
+                      "android",
+                      "lightnovel"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:07:48.598Z"
                 }
@@ -428,15 +711,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:07:48.598Z",
+    "last_updated": "2026-08-29T04:36:14.560Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of everything related to anime.",
+      "homepage": "https://anshumanv.github.io/awesome-anime-sources/",
       "id": 94137393,
       "language": null,
+      "license": null,
       "last_commit": "2024-07-05T08:26:23Z",
+      "open_issues": 28,
       "owner": "anshumanv",
       "repo": "awesome-anime-sources",
-      "stars": 1039
+      "stars": 1039,
+      "topics": [
+        "anime",
+        "anime-fans",
+        "anime-listing",
+        "anime-search",
+        "anime-sources",
+        "anime-website",
+        "awesome",
+        "awesome-list",
+        "forums",
+        "links",
+        "list",
+        "manga",
+        "manga-listing",
+        "webapps"
+      ]
     },
     "original_repository_sha": "94cab1098761b864efed6ced64c95314c5137d29",
     "enhanced_repository": "enhansome/enhansome-anime-sources",
