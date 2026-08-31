@@ -20,10 +20,10 @@
                     "language": "JavaScript",
                     "license": "Unlicense",
                     "last_commit": "2026-03-29T11:43:19Z",
-                    "open_issues": 293,
+                    "open_issues": 292,
                     "owner": "manga-download",
                     "repo": "hakuneko",
-                    "stars": 6315,
+                    "stars": 6318,
                     "topics": [
                       "anime",
                       "anime-downloader",
@@ -268,10 +268,10 @@
                     "language": "Kotlin",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-30T06:32:19Z",
-                    "open_issues": 605,
+                    "open_issues": 581,
                     "owner": "recloudstream",
                     "repo": "cloudstream",
-                    "stars": 10552,
+                    "stars": 10560,
                     "topics": [
                       "android",
                       "good-first-issue",
@@ -299,7 +299,7 @@
                     "open_issues": 375,
                     "owner": "aniyomiorg",
                     "repo": "aniyomi",
-                    "stars": 7636,
+                    "stars": 7640,
                     "topics": [
                       "android",
                       "anime",
@@ -463,11 +463,11 @@
                     "id": 320936145,
                     "language": "C#",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-30T19:02:53Z",
-                    "open_issues": 160,
+                    "last_commit": "2026-08-31T19:49:30Z",
+                    "open_issues": 162,
                     "owner": "Kareadita",
                     "repo": "Kavita",
-                    "stars": 11587,
+                    "stars": 11593,
                     "topics": [
                       "annotations",
                       "cbz",
@@ -506,10 +506,10 @@
                     "language": "JavaScript",
                     "license": "Unlicense",
                     "last_commit": "2026-03-29T11:43:19Z",
-                    "open_issues": 293,
+                    "open_issues": 292,
                     "owner": "manga-download",
                     "repo": "hakuneko",
-                    "stars": 6315,
+                    "stars": 6318,
                     "topics": [
                       "anime",
                       "anime-downloader",
@@ -614,7 +614,7 @@
                     "open_issues": 504,
                     "owner": "Jays2Kings",
                     "repo": "tachiyomiJ2K",
-                    "stars": 5365,
+                    "stars": 5366,
                     "topics": [
                       "android",
                       "fork",
@@ -658,10 +658,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-08-29T06:12:15Z",
-                    "open_issues": 285,
+                    "open_issues": 287,
                     "owner": "lnreader",
                     "repo": "lnreader",
-                    "stars": 2799,
+                    "stars": 2802,
                     "topics": [
                       "android",
                       "light-novels",
@@ -688,7 +688,7 @@
                     "open_issues": 259,
                     "owner": "LagradOst",
                     "repo": "QuickNovel",
-                    "stars": 1792,
+                    "stars": 1794,
                     "topics": [
                       "android",
                       "lightnovel"
@@ -711,7 +711,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T19:59:22.807Z",
+    "last_updated": "2026-08-31T22:01:03.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of everything related to anime.",
@@ -723,7 +723,7 @@
       "open_issues": 28,
       "owner": "anshumanv",
       "repo": "awesome-anime-sources",
-      "stars": 1039,
+      "stars": 1040,
       "topics": [
         "anime",
         "anime-fans",
