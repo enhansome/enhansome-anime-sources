@@ -177,10 +177,10 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 
 #### Mobile
 
-* [Cloudstream](https://github.com/recloudstream/cloudstream) ⭐ 10,583 | 🐛 553 | 🌐 Kotlin | 📅 2026-09-04
-* [Aniyomi](https://github.com/jmir1/aniyomi) ⭐ 7,651 | 🐛 375 | 🌐 Kotlin | 📅 2026-08-26
-* [Animity](https://github.com/kl3jvi/animity) ⭐ 1,128 | 🐛 14 | 📅 2025-09-29
-* [Animiru](https://github.com/Quickdesh/Animiru) ⭐ 861 | 🐛 37 | 🌐 Kotlin | 📅 2026-09-04
+* [Cloudstream](https://github.com/recloudstream/cloudstream) ⭐ 10,591 | 🐛 554 | 🌐 Kotlin | 📅 2026-09-05
+* [Aniyomi](https://github.com/jmir1/aniyomi) ⭐ 7,654 | 🐛 375 | 🌐 Kotlin | 📅 2026-09-04
+* [Animity](https://github.com/kl3jvi/animity) ⭐ 1,130 | 🐛 14 | 📅 2025-09-29
+* [Animiru](https://github.com/Quickdesh/Animiru) ⭐ 860 | 🐛 37 | 🌐 Kotlin | 📅 2026-09-04
 * [Kuro](https://github.com/deceptions/no) ⭐ 298 | 🐛 84 | 🌐 Kotlin | 📅 2023-05-19
 * [FireAnime](https://github.com/XenTeckzX/FireAnime) ⭐ 224 | 🐛 25 | 📅 2022-12-22
 * [AnimeDLR](https://github.com/cylonu87/AnimeDLR) ⭐ 52 | 🐛 2 | 📅 2019-12-12
@@ -241,9 +241,9 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 
 #### PC
 
-* [kavita](https://github.com/Kareadita/Kavita) ⭐ 11,606 | 🐛 162 | 🌐 C# | 📅 2026-09-04
+* [kavita](https://github.com/Kareadita/Kavita) ⭐ 11,611 | 🐛 163 | 🌐 C# | 📅 2026-09-05
 * [hakuneko](https://github.com/manga-download/hakuneko) ⭐ 6,321 | 🐛 294 | 🌐 JavaScript | 📅 2026-03-29
-* [OpenComic](https://github.com/ollm/OpenComic) ⭐ 1,960 | 🐛 117 | 🌐 JavaScript | 📅 2026-09-04
+* [OpenComic](https://github.com/ollm/OpenComic) ⭐ 1,961 | 🐛 117 | 🌐 JavaScript | 📅 2026-09-05
 * [FMD](https://github.com/riderkick/FMD) ⭐ 741 | 🐛 522 | 🌐 Pascal | 📅 2020-10-31
 * [doujindownloader](https://doujindownloader.com/)
 
@@ -296,10 +296,10 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 
 #### Mobile
 
-* [LNReader](https://github.com/LNReader/lnreader) ⭐ 2,809 | 🐛 289 | 🌐 TypeScript | 📅 2026-09-03
-* [QuickNovel](https://github.com/LagradOst/QuickNovel) ⭐ 1,799 | 🐛 260 | 🌐 Kotlin | 📅 2026-08-27
+* [LNReader](https://github.com/LNReader/lnreader) ⭐ 2,810 | 🐛 291 | 🌐 TypeScript | 📅 2026-09-03
+* [QuickNovel](https://github.com/LagradOst/QuickNovel) ⭐ 1,800 | 🐛 260 | 🌐 Kotlin | 📅 2026-08-27
 * [Shosetsu](https://shosetsu.app/)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
