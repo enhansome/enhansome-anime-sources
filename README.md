@@ -164,23 +164,23 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 
 #### PC
 
-* [hakuneko](https://github.com/manga-download/hakuneko) ⭐ 6,344 | 🐛 291 | 🌐 JavaScript | 📅 2026-03-29
-* [taiga](https://github.com/erengy/taiga) ⭐ 2,330 | 🐛 214 | 🌐 C++ | 📅 2026-09-21
-* [anime-downloader](https://github.com/vn-ki/anime-downloader) ⭐ 2,002 | 🐛 61 | 🌐 Python | 📅 2022-12-08
-* [monkey-dl](https://github.com/Oshan96/monkey-dl) ⭐ 904 | 🐛 43 | 🌐 Python | 📅 2023-05-22
-* [trackma](https://github.com/z411/trackma) ⭐ 890 | 🐛 129 | 🌐 Python | 📅 2026-09-21
+* [hakuneko](https://github.com/manga-download/hakuneko) ⭐ 6,344 | 🐛 292 | 🌐 JavaScript | 📅 2026-03-29
+* [taiga](https://github.com/erengy/taiga) ⭐ 2,331 | 🐛 215 | 🌐 C++ | 📅 2026-09-21
+* [anime-downloader](https://github.com/vn-ki/anime-downloader) ⭐ 2,003 | 🐛 61 | 🌐 Python | 📅 2022-12-08
+* [monkey-dl](https://github.com/Oshan96/monkey-dl) ⭐ 905 | 🐛 43 | 🌐 Python | 📅 2023-05-22
+* [trackma](https://github.com/z411/trackma) ⭐ 891 | 🐛 129 | 🌐 Python | 📅 2026-09-21
 * [yuna](https://github.com/BeeeQueue/yuna) ⚠️ Archived
-* [Totoro](https://github.com/insomniachi/Totoro) ⭐ 286 | 🐛 15 | 🌐 C# | 📅 2025-05-27
+* [Totoro](https://github.com/insomniachi/Totoro) ⭐ 285 | 🐛 15 | 🌐 C# | 📅 2025-05-27
 * [hachidori](https://github.com/Atelier-Shiori/hachidori) ⭐ 81 | 🐛 2 | 🌐 Objective-C | 📅 2024-09-07
 * [kawanime](https://github.com/Kylart/KawAnime)
 * [mikazuki](https://github.com/NicoAiko/mikazuki)
 
 #### Mobile
 
-* [Cloudstream](https://github.com/recloudstream/cloudstream) ⭐ 10,716 | 🐛 569 | 🌐 Kotlin | 📅 2026-09-21
-* [Aniyomi](https://github.com/jmir1/aniyomi) ⭐ 7,699 | 🐛 376 | 🌐 Kotlin | 📅 2026-09-14
+* [Cloudstream](https://github.com/recloudstream/cloudstream) ⭐ 10,724 | 🐛 568 | 🌐 Kotlin | 📅 2026-09-21
+* [Aniyomi](https://github.com/jmir1/aniyomi) ⭐ 7,705 | 🐛 376 | 🌐 Kotlin | 📅 2026-09-14
 * [Animity](https://github.com/kl3jvi/animity) ⭐ 1,132 | 🐛 14 | 📅 2025-09-29
-* [Animiru](https://github.com/Quickdesh/Animiru) ⭐ 871 | 🐛 37 | 🌐 Kotlin | 📅 2026-09-14
+* [Animiru](https://github.com/Quickdesh/Animiru) ⭐ 872 | 🐛 37 | 🌐 Kotlin | 📅 2026-09-14
 * [Kuro](https://github.com/deceptions/no) ⭐ 298 | 🐛 83 | 🌐 Kotlin | 📅 2023-05-19
 * [FireAnime](https://github.com/XenTeckzX/FireAnime) ⭐ 223 | 🐛 25 | 📅 2022-12-22
 * [AnimeDLR](https://github.com/cylonu87/AnimeDLR) ⭐ 53 | 🐛 2 | 📅 2019-12-12
@@ -241,9 +241,9 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 
 #### PC
 
-* [kavita](https://github.com/Kareadita/Kavita) ⭐ 11,718 | 🐛 173 | 🌐 C# | 📅 2026-09-21
-* [hakuneko](https://github.com/manga-download/hakuneko) ⭐ 6,344 | 🐛 291 | 🌐 JavaScript | 📅 2026-03-29
-* [OpenComic](https://github.com/ollm/OpenComic) ⭐ 1,987 | 🐛 118 | 🌐 JavaScript | 📅 2026-09-20
+* [kavita](https://github.com/Kareadita/Kavita) ⭐ 11,721 | 🐛 173 | 🌐 C# | 📅 2026-09-21
+* [hakuneko](https://github.com/manga-download/hakuneko) ⭐ 6,344 | 🐛 292 | 🌐 JavaScript | 📅 2026-03-29
+* [OpenComic](https://github.com/ollm/OpenComic) ⭐ 1,988 | 🐛 118 | 🌐 JavaScript | 📅 2026-09-20
 * [FMD](https://github.com/riderkick/FMD) ⭐ 741 | 🐛 523 | 🌐 Pascal | 📅 2020-10-31
 * [doujindownloader](https://doujindownloader.com/)
 
@@ -296,10 +296,10 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 
 #### Mobile
 
-* [LNReader](https://github.com/LNReader/lnreader) ⭐ 2,840 | 🐛 290 | 🌐 TypeScript | 📅 2026-09-21
+* [LNReader](https://github.com/LNReader/lnreader) ⭐ 2,840 | 🐛 281 | 🌐 TypeScript | 📅 2026-09-22
 * [QuickNovel](https://github.com/LagradOst/QuickNovel) ⭐ 1,830 | 🐛 262 | 🌐 Kotlin | 📅 2026-09-18
 * [Shosetsu](https://shosetsu.app/)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
