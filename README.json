@@ -10,7 +10,7 @@
                 {
                   "node_type": "item",
                   "title": "hakuneko",
-                  "description": null,
+                  "description": "manga-download/hakuneko",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -23,7 +23,7 @@
                     "open_issues": 294,
                     "owner": "manga-download",
                     "repo": "hakuneko",
-                    "stars": 6357,
+                    "stars": 6358,
                     "topics": [
                       "anime",
                       "anime-downloader",
@@ -39,7 +39,7 @@
                 {
                   "node_type": "item",
                   "title": "taiga",
-                  "description": null,
+                  "description": "erengy/taiga",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -66,7 +66,7 @@
                 {
                   "node_type": "item",
                   "title": "anime-downloader",
-                  "description": null,
+                  "description": "anime-dl/anime-downloader",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -97,7 +97,7 @@
                 {
                   "node_type": "item",
                   "title": "monkey-dl",
-                  "description": null,
+                  "description": "Oshan96/monkey-dl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -133,7 +133,7 @@
                 {
                   "node_type": "item",
                   "title": "trackma",
-                  "description": null,
+                  "description": "z411/trackma",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -163,7 +163,7 @@
                 {
                   "node_type": "item",
                   "title": "yuna",
-                  "description": null,
+                  "description": "beeequeue/yuna",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -195,7 +195,7 @@
                 {
                   "node_type": "item",
                   "title": "Totoro",
-                  "description": null,
+                  "description": "insomniachi/Totoro",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -223,7 +223,7 @@
                 {
                   "node_type": "item",
                   "title": "hachidori",
-                  "description": null,
+                  "description": "Atelier-Shiori/hachidori",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -258,7 +258,7 @@
                 {
                   "node_type": "item",
                   "title": "Cloudstream",
-                  "description": null,
+                  "description": "recloudstream/cloudstream",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -271,7 +271,7 @@
                     "open_issues": 551,
                     "owner": "recloudstream",
                     "repo": "cloudstream",
-                    "stars": 10852,
+                    "stars": 10853,
                     "topics": [
                       "android",
                       "good-first-issue",
@@ -286,7 +286,7 @@
                 {
                   "node_type": "item",
                   "title": "Aniyomi",
-                  "description": null,
+                  "description": "aniyomiorg/aniyomi",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -299,7 +299,7 @@
                     "open_issues": 375,
                     "owner": "aniyomiorg",
                     "repo": "aniyomi",
-                    "stars": 7740,
+                    "stars": 7741,
                     "topics": [
                       "android",
                       "anime",
@@ -311,7 +311,7 @@
                 {
                   "node_type": "item",
                   "title": "Animity",
-                  "description": null,
+                  "description": "kl3jvi/animity",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -339,7 +339,7 @@
                 {
                   "node_type": "item",
                   "title": "Animiru",
-                  "description": null,
+                  "description": "animiruorg/Animiru",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -360,7 +360,7 @@
                 {
                   "node_type": "item",
                   "title": "Kuro",
-                  "description": null,
+                  "description": "deceptions/no",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -381,7 +381,7 @@
                 {
                   "node_type": "item",
                   "title": "FireAnime",
-                  "description": null,
+                  "description": "XenTeckzX/FireAnime",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -402,7 +402,7 @@
                 {
                   "node_type": "item",
                   "title": "AnimeDLR",
-                  "description": null,
+                  "description": "cylonu87/AnimeDLR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -454,7 +454,7 @@
                 {
                   "node_type": "item",
                   "title": "kavita",
-                  "description": null,
+                  "description": "Kareadita/Kavita",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -464,10 +464,10 @@
                     "language": "C#",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-02T19:11:11Z",
-                    "open_issues": 168,
+                    "open_issues": 169,
                     "owner": "Kareadita",
                     "repo": "Kavita",
-                    "stars": 11791,
+                    "stars": 11790,
                     "topics": [
                       "annotations",
                       "cbz",
@@ -496,7 +496,7 @@
                 {
                   "node_type": "item",
                   "title": "hakuneko",
-                  "description": null,
+                  "description": "manga-download/hakuneko",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -509,7 +509,7 @@
                     "open_issues": 294,
                     "owner": "manga-download",
                     "repo": "hakuneko",
-                    "stars": 6357,
+                    "stars": 6358,
                     "topics": [
                       "anime",
                       "anime-downloader",
@@ -525,7 +525,7 @@
                 {
                   "node_type": "item",
                   "title": "OpenComic",
-                  "description": null,
+                  "description": "ollm/OpenComic",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -567,7 +567,7 @@
                 {
                   "node_type": "item",
                   "title": "FMD",
-                  "description": null,
+                  "description": "riderkick/FMD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -614,7 +614,7 @@
                     "open_issues": 505,
                     "owner": "Jays2Kings",
                     "repo": "tachiyomiJ2K",
-                    "stars": 5396,
+                    "stars": 5397,
                     "topics": [
                       "android",
                       "fork",
@@ -648,7 +648,7 @@
                 {
                   "node_type": "item",
                   "title": "LNReader",
-                  "description": null,
+                  "description": "lnreader/lnreader",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -661,7 +661,7 @@
                     "open_issues": 298,
                     "owner": "lnreader",
                     "repo": "lnreader",
-                    "stars": 2869,
+                    "stars": 2870,
                     "topics": [
                       "android",
                       "light-novels",
@@ -675,7 +675,7 @@
                 {
                   "node_type": "item",
                   "title": "QuickNovel",
-                  "description": null,
+                  "description": "LagradOst/QuickNovel",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -711,7 +711,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:25:44.138Z",
+    "last_updated": "2026-10-03T04:31:33.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of everything related to anime.",
