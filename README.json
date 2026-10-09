@@ -52,7 +52,7 @@
                     "open_issues": 215,
                     "owner": "erengy",
                     "repo": "taiga",
-                    "stars": 2334,
+                    "stars": 2335,
                     "topics": [
                       "anilist",
                       "anime",
@@ -146,7 +146,7 @@
                     "open_issues": 127,
                     "owner": "z411",
                     "repo": "trackma",
-                    "stars": 890,
+                    "stars": 892,
                     "topics": [
                       "anime",
                       "curses",
@@ -267,11 +267,11 @@
                     "id": 521189491,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-07T00:51:33Z",
-                    "open_issues": 557,
+                    "last_commit": "2026-10-09T14:12:35Z",
+                    "open_issues": 559,
                     "owner": "recloudstream",
                     "repo": "cloudstream",
-                    "stars": 10897,
+                    "stars": 10907,
                     "topics": [
                       "android",
                       "good-first-issue",
@@ -299,7 +299,7 @@
                     "open_issues": 375,
                     "owner": "aniyomiorg",
                     "repo": "aniyomi",
-                    "stars": 7764,
+                    "stars": 7768,
                     "topics": [
                       "android",
                       "anime",
@@ -348,11 +348,11 @@
                     "id": 468685161,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-06T09:37:21Z",
-                    "open_issues": 48,
+                    "last_commit": "2026-10-09T20:23:58Z",
+                    "open_issues": 45,
                     "owner": "animiruorg",
                     "repo": "Animiru",
-                    "stars": 887,
+                    "stars": 888,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:07:48.598Z"
@@ -463,11 +463,11 @@
                     "id": 320936145,
                     "language": "C#",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-08T17:11:05Z",
+                    "last_commit": "2026-10-09T20:00:39Z",
                     "open_issues": 184,
                     "owner": "Kareadita",
                     "repo": "Kavita",
-                    "stars": 11821,
+                    "stars": 11822,
                     "topics": [
                       "annotations",
                       "cbz",
@@ -538,7 +538,7 @@
                     "open_issues": 119,
                     "owner": "ollm",
                     "repo": "OpenComic",
-                    "stars": 2003,
+                    "stars": 2004,
                     "topics": [
                       "comic",
                       "comic-viewer",
@@ -614,7 +614,7 @@
                     "open_issues": 506,
                     "owner": "Jays2Kings",
                     "repo": "tachiyomiJ2K",
-                    "stars": 5399,
+                    "stars": 5401,
                     "topics": [
                       "android",
                       "fork",
@@ -661,7 +661,7 @@
                     "open_issues": 304,
                     "owner": "lnreader",
                     "repo": "lnreader",
-                    "stars": 2892,
+                    "stars": 2893,
                     "topics": [
                       "android",
                       "light-novels",
@@ -688,7 +688,7 @@
                     "open_issues": 269,
                     "owner": "LagradOst",
                     "repo": "QuickNovel",
-                    "stars": 1849,
+                    "stars": 1850,
                     "topics": [
                       "android",
                       "lightnovel"
@@ -711,7 +711,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T22:21:50.403Z",
+    "last_updated": "2026-10-09T21:51:12.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of everything related to anime.",
