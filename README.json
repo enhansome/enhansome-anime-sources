@@ -23,7 +23,7 @@
                     "open_issues": 293,
                     "owner": "manga-download",
                     "repo": "hakuneko",
-                    "stars": 6371,
+                    "stars": 6370,
                     "topics": [
                       "anime",
                       "anime-downloader",
@@ -204,7 +204,7 @@
                     "id": 522584084,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-10-18T18:04:32Z",
+                    "last_commit": "2026-10-19T09:06:14Z",
                     "open_issues": 15,
                     "owner": "insomniachi",
                     "repo": "Totoro",
@@ -268,10 +268,10 @@
                     "language": "Kotlin",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-18T17:54:15Z",
-                    "open_issues": 561,
+                    "open_issues": 562,
                     "owner": "recloudstream",
                     "repo": "cloudstream",
-                    "stars": 10997,
+                    "stars": 11003,
                     "topics": [
                       "android",
                       "good-first-issue",
@@ -299,7 +299,7 @@
                     "open_issues": 379,
                     "owner": "aniyomiorg",
                     "repo": "aniyomi",
-                    "stars": 7817,
+                    "stars": 7820,
                     "topics": [
                       "android",
                       "anime",
@@ -348,11 +348,11 @@
                     "id": 468685161,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-18T09:01:57Z",
-                    "open_issues": 44,
+                    "last_commit": "2026-10-19T19:26:30Z",
+                    "open_issues": 45,
                     "owner": "animiruorg",
                     "repo": "Animiru",
-                    "stars": 895,
+                    "stars": 896,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:07:48.598Z"
@@ -463,11 +463,11 @@
                     "id": 320936145,
                     "language": "C#",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-16T12:14:52Z",
-                    "open_issues": 163,
+                    "last_commit": "2026-10-19T18:56:54Z",
+                    "open_issues": 165,
                     "owner": "Kareadita",
                     "repo": "Kavita",
-                    "stars": 11885,
+                    "stars": 11894,
                     "topics": [
                       "annotations",
                       "cbz",
@@ -509,7 +509,7 @@
                     "open_issues": 293,
                     "owner": "manga-download",
                     "repo": "hakuneko",
-                    "stars": 6371,
+                    "stars": 6370,
                     "topics": [
                       "anime",
                       "anime-downloader",
@@ -610,11 +610,11 @@
                     "id": 175908029,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-17T21:51:28Z",
+                    "last_commit": "2026-10-19T08:07:27Z",
                     "open_issues": 506,
                     "owner": "Jays2Kings",
                     "repo": "tachiyomiJ2K",
-                    "stars": 5402,
+                    "stars": 5401,
                     "topics": [
                       "android",
                       "fork",
@@ -688,7 +688,7 @@
                     "open_issues": 272,
                     "owner": "LagradOst",
                     "repo": "QuickNovel",
-                    "stars": 1862,
+                    "stars": 1864,
                     "topics": [
                       "android",
                       "lightnovel"
@@ -711,7 +711,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T19:35:13.227Z",
+    "last_updated": "2026-10-19T21:42:46.694Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of everything related to anime.",
@@ -723,7 +723,7 @@
       "open_issues": 32,
       "owner": "anshumanv",
       "repo": "awesome-anime-sources",
-      "stars": 1063,
+      "stars": 1065,
       "topics": [
         "anime",
         "anime-fans",
