@@ -164,23 +164,23 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 
 #### PC
 
-* [hakuneko](https://github.com/manga-download/hakuneko) ⭐ 6,405 | 🐛 294 | 🌐 JavaScript | 📅 2026-03-29
+* [hakuneko](https://github.com/manga-download/hakuneko) ⭐ 6,406 | 🐛 297 | 🌐 JavaScript | 📅 2026-03-29
 * [taiga](https://github.com/erengy/taiga) ⭐ 2,340 | 🐛 205 | 🌐 C++ | 📅 2026-11-08
 * [anime-downloader](https://github.com/vn-ki/anime-downloader) ⭐ 2,000 | 🐛 61 | 🌐 Python | 📅 2022-12-08
 * [monkey-dl](https://github.com/Oshan96/monkey-dl) ⭐ 910 | 🐛 43 | 🌐 Python | 📅 2023-05-22
-* [trackma](https://github.com/z411/trackma) ⭐ 889 | 🐛 127 | 🌐 Python | 📅 2026-10-03
+* [trackma](https://github.com/z411/trackma) ⭐ 890 | 🐛 127 | 🌐 Python | 📅 2026-10-03
 * [yuna](https://github.com/BeeeQueue/yuna) ⚠️ Archived
-* [Totoro](https://github.com/insomniachi/Totoro) ⭐ 285 | 🐛 9 | 🌐 C# | 📅 2026-11-11
+* [Totoro](https://github.com/insomniachi/Totoro) ⭐ 285 | 🐛 9 | 🌐 C# | 📅 2026-11-12
 * [hachidori](https://github.com/Atelier-Shiori/hachidori) ⭐ 82 | 🐛 2 | 🌐 Objective-C | 📅 2024-09-07
 * [kawanime](https://github.com/Kylart/KawAnime)
 * [mikazuki](https://github.com/NicoAiko/mikazuki)
 
 #### Mobile
 
-* [Cloudstream](https://github.com/recloudstream/cloudstream) ⭐ 11,245 | 🐛 575 | 🌐 Kotlin | 📅 2026-11-10
+* [Cloudstream](https://github.com/recloudstream/cloudstream) ⭐ 11,272 | 🐛 576 | 🌐 Kotlin | 📅 2026-11-12
 * [Aniyomi](https://github.com/jmir1/aniyomi) ⚠️ Archived
 * [Animity](https://github.com/kl3jvi/animity) ⭐ 1,134 | 🐛 14 | 📅 2025-09-29
-* [Animiru](https://github.com/Quickdesh/Animiru) ⭐ 917 | 🐛 44 | 🌐 Kotlin | 📅 2026-11-11
+* [Animiru](https://github.com/Quickdesh/Animiru) ⭐ 921 | 🐛 45 | 🌐 Kotlin | 📅 2026-11-11
 * [Kuro](https://github.com/deceptions/no) ⭐ 296 | 🐛 83 | 🌐 Kotlin | 📅 2023-05-19
 * [FireAnime](https://github.com/XenTeckzX/FireAnime) ⭐ 223 | 🐛 25 | 📅 2022-12-22
 * [AnimeDLR](https://github.com/cylonu87/AnimeDLR) ⭐ 53 | 🐛 2 | 📅 2019-12-12
@@ -241,15 +241,15 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 
 #### PC
 
-* [kavita](https://github.com/Kareadita/Kavita) ⭐ 12,106 | 🐛 165 | 🌐 C# | 📅 2026-11-11
-* [hakuneko](https://github.com/manga-download/hakuneko) ⭐ 6,405 | 🐛 294 | 🌐 JavaScript | 📅 2026-03-29
-* [OpenComic](https://github.com/ollm/OpenComic) ⭐ 2,034 | 🐛 122 | 🌐 JavaScript | 📅 2026-11-11
+* [kavita](https://github.com/Kareadita/Kavita) ⭐ 12,111 | 🐛 166 | 🌐 C# | 📅 2026-11-11
+* [hakuneko](https://github.com/manga-download/hakuneko) ⭐ 6,406 | 🐛 297 | 🌐 JavaScript | 📅 2026-03-29
+* [OpenComic](https://github.com/ollm/OpenComic) ⭐ 2,037 | 🐛 122 | 🌐 JavaScript | 📅 2026-11-12
 * [FMD](https://github.com/riderkick/FMD) ⭐ 741 | 🐛 524 | 🌐 Pascal | 📅 2020-10-31
 * [doujindownloader](https://doujindownloader.com/)
 
 #### Mobile
 
-* [tachiyomij2k](https://github.com/Jays2Kings/tachiyomiJ2K) ⭐ 5,410 | 🐛 510 | 🌐 Kotlin | 📅 2026-11-09 Fork of Tachiyomi but it has way better ui than tachiyomi
+* [tachiyomij2k](https://github.com/Jays2Kings/tachiyomiJ2K) ⭐ 5,410 | 🐛 509 | 🌐 Kotlin | 📅 2026-11-12 Fork of Tachiyomi but it has way better ui than tachiyomi
 * [Tachiyomi](https://github.com/inorichi/tachiyomi)
 * [MangaReader](https://apps.apple.com/us/app/manga-reader-manga-viewer/id647701066)
 * [Paperback](https://apps.apple.com/app/paperback-manga-reader/id1519509781)
@@ -296,10 +296,10 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 
 #### Mobile
 
-* [LNReader](https://github.com/LNReader/lnreader) ⭐ 2,971 | 🐛 321 | 🌐 TypeScript | 📅 2026-11-10
-* [QuickNovel](https://github.com/LagradOst/QuickNovel) ⭐ 1,891 | 🐛 280 | 🌐 Kotlin | 📅 2026-11-11
+* [LNReader](https://github.com/LNReader/lnreader) ⭐ 2,980 | 🐛 321 | 🌐 TypeScript | 📅 2026-11-10
+* [QuickNovel](https://github.com/LagradOst/QuickNovel) ⭐ 1,894 | 🐛 281 | 🌐 Kotlin | 📅 2026-11-11
 * [Shosetsu](https://shosetsu.app/)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
