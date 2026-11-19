@@ -164,23 +164,23 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 
 #### PC
 
-* [hakuneko](https://github.com/manga-download/hakuneko) ⭐ 6,416 | 🐛 297 | 🌐 JavaScript | 📅 2026-03-29
+* [hakuneko](https://github.com/manga-download/hakuneko) ⭐ 6,415 | 🐛 297 | 🌐 JavaScript | 📅 2026-03-29
 * [taiga](https://github.com/erengy/taiga) ⭐ 2,343 | 🐛 200 | 🌐 C++ | 📅 2026-11-15
-* [anime-downloader](https://github.com/vn-ki/anime-downloader) ⭐ 2,002 | 🐛 61 | 🌐 Python | 📅 2022-12-08
-* [monkey-dl](https://github.com/Oshan96/monkey-dl) ⭐ 914 | 🐛 43 | 🌐 Python | 📅 2023-05-22
-* [trackma](https://github.com/z411/trackma) ⭐ 889 | 🐛 127 | 🌐 Python | 📅 2026-10-03
+* [anime-downloader](https://github.com/vn-ki/anime-downloader) ⭐ 2,001 | 🐛 61 | 🌐 Python | 📅 2022-12-08
+* [monkey-dl](https://github.com/Oshan96/monkey-dl) ⭐ 915 | 🐛 43 | 🌐 Python | 📅 2023-05-22
+* [trackma](https://github.com/z411/trackma) ⭐ 888 | 🐛 127 | 🌐 Python | 📅 2026-10-03
 * [yuna](https://github.com/BeeeQueue/yuna) ⚠️ Archived
-* [Totoro](https://github.com/insomniachi/Totoro) ⭐ 286 | 🐛 9 | 🌐 C# | 📅 2026-11-18
+* [Totoro](https://github.com/insomniachi/Totoro) ⭐ 286 | 🐛 9 | 🌐 C# | 📅 2026-11-19
 * [hachidori](https://github.com/Atelier-Shiori/hachidori) ⭐ 81 | 🐛 2 | 🌐 Objective-C | 📅 2024-09-07
 * [kawanime](https://github.com/Kylart/KawAnime)
 * [mikazuki](https://github.com/NicoAiko/mikazuki)
 
 #### Mobile
 
-* [Cloudstream](https://github.com/recloudstream/cloudstream) ⭐ 11,350 | 🐛 580 | 🌐 Kotlin | 📅 2026-11-18
+* [Cloudstream](https://github.com/recloudstream/cloudstream) ⭐ 11,363 | 🐛 580 | 🌐 Kotlin | 📅 2026-11-18
 * [Aniyomi](https://github.com/jmir1/aniyomi) ⚠️ Archived
-* [Animity](https://github.com/kl3jvi/animity) ⭐ 1,136 | 🐛 14 | 📅 2025-09-29
-* [Animiru](https://github.com/Quickdesh/Animiru) ⭐ 932 | 🐛 45 | 🌐 Kotlin | 📅 2026-11-18
+* [Animity](https://github.com/kl3jvi/animity) ⭐ 1,135 | 🐛 14 | 📅 2025-09-29
+* [Animiru](https://github.com/Quickdesh/Animiru) ⭐ 931 | 🐛 45 | 🌐 Kotlin | 📅 2026-11-18
 * [Kuro](https://github.com/deceptions/no) ⭐ 297 | 🐛 84 | 🌐 Kotlin | 📅 2023-05-19
 * [FireAnime](https://github.com/XenTeckzX/FireAnime) ⭐ 223 | 🐛 25 | 📅 2022-12-22
 * [AnimeDLR](https://github.com/cylonu87/AnimeDLR) ⭐ 53 | 🐛 2 | 📅 2019-12-12
@@ -241,15 +241,15 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 
 #### PC
 
-* [kavita](https://github.com/Kareadita/Kavita) ⭐ 12,151 | 🐛 164 | 🌐 C# | 📅 2026-11-18
-* [hakuneko](https://github.com/manga-download/hakuneko) ⭐ 6,416 | 🐛 297 | 🌐 JavaScript | 📅 2026-03-29
-* [OpenComic](https://github.com/ollm/OpenComic) ⭐ 2,045 | 🐛 68 | 🌐 JavaScript | 📅 2026-11-18
+* [kavita](https://github.com/Kareadita/Kavita) ⭐ 12,154 | 🐛 165 | 🌐 C# | 📅 2026-11-18
+* [hakuneko](https://github.com/manga-download/hakuneko) ⭐ 6,415 | 🐛 297 | 🌐 JavaScript | 📅 2026-03-29
+* [OpenComic](https://github.com/ollm/OpenComic) ⭐ 2,047 | 🐛 68 | 🌐 JavaScript | 📅 2026-11-19
 * [FMD](https://github.com/riderkick/FMD) ⭐ 741 | 🐛 524 | 🌐 Pascal | 📅 2020-10-31
 * [doujindownloader](https://doujindownloader.com/)
 
 #### Mobile
 
-* [tachiyomij2k](https://github.com/Jays2Kings/tachiyomiJ2K) ⭐ 5,417 | 🐛 510 | 🌐 Kotlin | 📅 2026-11-13 Fork of Tachiyomi but it has way better ui than tachiyomi
+* [tachiyomij2k](https://github.com/Jays2Kings/tachiyomiJ2K) ⭐ 5,417 | 🐛 510 | 🌐 Kotlin | 📅 2026-11-19 Fork of Tachiyomi but it has way better ui than tachiyomi
 * [Tachiyomi](https://github.com/inorichi/tachiyomi)
 * [MangaReader](https://apps.apple.com/us/app/manga-reader-manga-viewer/id647701066)
 * [Paperback](https://apps.apple.com/app/paperback-manga-reader/id1519509781)
@@ -297,9 +297,9 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 #### Mobile
 
 * [LNReader](https://github.com/LNReader/lnreader) ⭐ 2,993 | 🐛 309 | 🌐 TypeScript | 📅 2026-11-18
-* [QuickNovel](https://github.com/LagradOst/QuickNovel) ⭐ 1,900 | 🐛 288 | 🌐 Kotlin | 📅 2026-11-18
+* [QuickNovel](https://github.com/LagradOst/QuickNovel) ⭐ 1,898 | 🐛 288 | 🌐 Kotlin | 📅 2026-11-18
 * [Shosetsu](https://shosetsu.app/)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
